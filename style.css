@@ -27,6 +27,7 @@ body {
 }
 
 @media (max-width: 768px) {
+
   .intro__image {
     text-align: center;
   }
